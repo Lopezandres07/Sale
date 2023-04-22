@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+body {
+    font-family: "Roboto" !important;
+    font-size: large !important;
+}
+
+.logo {
+    width: 10rem;
+}
+
+.card-img-size {
+    background-size: cover;
+    height: 25rem;
+}
